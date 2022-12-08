@@ -13,10 +13,10 @@
 ---
 
 ### 👨‍💻: About Me :
-  I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jamaica who is passionate about all things I.T.
-  - :telescope: I am looking to contribute to, well....whatever projects my mind cooks up 😅. This can range from Frontend applications to scripts for Cybersecurity projects.
+  I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jamaica who is passionate about all things computing.
+  - :telescope: I am looking to contribute to, well....whatever projects my mind cooks up 😅. This can range from Web applications to scripts for test automation.
 
-- :seedling: I am currently looking to enter into Data Science with well....you guessed it....Pyhton!
+- :seedling: I am currently looking to enter into Full Stack Web Development or Test Automation.
 
 - :zap: In my free time, I help other developers solve problems with their code or build anything that comes to mind.
 
