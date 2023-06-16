@@ -50,7 +50,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=In-sp3ctr3&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=In-sp3ctr3&theme=navy-gear&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=In-sp3ctr3&size_weight=0.5&count_weight=0.5&show_icons=true&theme=transparent)
 
