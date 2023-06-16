@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻: About Me :
-  I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jamaica who is passionate about all things tech.
+  I am a Developer from Jamaica <img src="http://bit.ly/eUXTFa" width="30"> who is passionate about all things tech.
 
 - :seedling: I bounce between Full Stack Web Development or Test Automation.
 
