@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif?cid=ecf05e47nba7lpa9sgwy1sse1440hj3wd45qlcbe958b36zf&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
 <h1>
-  hey there
+  HEY THERE
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div align="center">
@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻: About Me :
-  I am a Developer from Jamaica <img src="http://bit.ly/eUXTFa" width="30"> who is passionate about all things tech.
+  I am a Developer from Jamaica <img src="https://media4.giphy.com/media/gxp0ExqkpxPjedtbOw/giphy.gif?cid=ecf05e47c26toxn704ynwskzhdm0q6vknviyiyei633c1s0h&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30"> who is passionate about all things tech.
 
 - :seedling: I bounce between Full Stack Web Development or Test Automation.
 
