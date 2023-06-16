@@ -13,10 +13,9 @@
 ---
 
 ### 👨‍💻: About Me :
-  I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jamaica who is passionate about all things computing.
-  - :telescope: I am looking to contribute to, well....whatever projects my mind cooks up 😅. This can range from Web applications to scripts for test automation.
+  I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jamaica who is passionate about all things tech.
 
-- :seedling: I am currently looking to enter into Full Stack Web Development or Test Automation.
+- :seedling: I bounce between Full Stack Web Development or Test Automation.
 
 - :zap: In my free time, I help other developers solve problems with their code or build anything that comes to mind.
 
@@ -51,6 +50,3 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=In-sp3ctr3&theme=navy-gear&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=In-sp3ctr3&size_weight=0.5&count_weight=0.5&show_icons=true&theme=transparent)
-
