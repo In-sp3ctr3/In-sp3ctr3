@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/sC0Otv1hUm0BtrqNGp/200w.webp?cid=ecf05e47wzsguq23eou2z4z5wsre78kppmwxptcxt522kjji&rid=200w.webp&ct=s" width="100"/>
+  <img src="[https://media2.giphy.com/media/sC0Otv1hUm0BtrqNGp/200w.webp?cid=ecf05e47wzsguq23eou2z4z5wsre78kppmwxptcxt522kjji&rid=200w.webp&ct=s](https://media2.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif?cid=ecf05e47nba7lpa9sgwy1sse1440hj3wd45qlcbe958b36zf&ep=v1_gifs_related&rid=giphy.gif&ct=s)" width="100"/>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div align="center">
-  <img src="https://media2.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif?cid=ecf05e47nba7lpa9sgwy1sse1440hj3wd45qlcbe958b36zf&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="500" height="500"/>
+  <img src="" width="500" height="500"/>
 </div>
   
 </div>
