@@ -2,11 +2,11 @@
 
 # Hey, I'm Jadan 👋
 
-### Software engineer from Jamaica
+### Software Engineer · Agentic AI Systems
 
-I design systems, then choose the stack they need.
+I design and build AI inference pipelines, multi-agent workflows, automation platforms, and the backend and cloud systems that make them reliable.
 
-I work across backend platforms, AI systems, infrastructure, automation, and developer tooling.
+The system comes first. The stack follows.
 
 [![Website](https://img.shields.io/badge/Website-jadanjones.com-181717?style=for-the-badge&logo=safari&logoColor=white)](https://www.jadanjones.com)
 [![Résumé](https://img.shields.io/badge/Résumé-View_PDF-6e56cf?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.jadanjones.com/resume/jadan-jones-resume.pdf)
@@ -17,9 +17,9 @@ I work across backend platforms, AI systems, infrastructure, automation, and dev
 
 ## How I work
 
-I don't start with a favourite stack. I start with the system: what it needs to do, where the boundaries are, how data moves, what can fail, and how somebody will operate it when it does. Then I choose the languages, frameworks, and infrastructure that fit.
+I don't start with a favourite stack. I start with the system: what it needs to do, where the boundaries are, how data moves, what can fail, and how somebody will operate it when it does. Then I choose the languages, frameworks, models, and infrastructure that fit.
 
-I've worked across backend engineering, QA automation, cloud infrastructure, AI inference, and multi-agent workflows. I'm comfortable moving between those layers when the system needs it.
+I work at both the architecture and implementation layers: model serving, multi-agent orchestration, guardrails, evaluation, APIs, state, infrastructure, and observability. My background in backend engineering, QA automation, and cloud infrastructure shapes how I build AI systems that have to survive outside a demo.
 
 Most of my public projects started with "I wish this existed" and got slightly out of hand.
 
@@ -36,6 +36,17 @@ Most of my public projects started with "I wish this existed" and got slightly o
 #### Infrastructure and delivery
 
 [![Infrastructure and delivery: Docker, Kubernetes, Terraform, OpenShift, GitHub Actions, Linux, and Git](https://skillicons.dev/icons?i=docker,kubernetes,terraform,openshift,githubactions,linux,git&theme=dark)](https://skillicons.dev)
+
+#### AI and model systems
+
+Agentic AI · Multi-agent systems · LLM workflows · AI inference · Model serving · Guardrails · Evaluation
+
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-ffd21e?style=for-the-badge&logo=huggingface&logoColor=111111)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-5b45ff?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white)
 
 #### Quality and automation
 
@@ -93,6 +104,6 @@ I write about agent architecture, coding workflows, AI evaluation, automation, a
 
 ## Open to the right engineering role
 
-I'm open to software engineering roles involving AI systems, backend or platform engineering, automation, and developer tooling.
+I'm open to Software Engineer, AI Systems Engineer, and Agentic AI Engineer roles, especially where the work touches backend or platform engineering, automation, and developer tooling.
 
 [View my résumé](https://www.jadanjones.com/resume/jadan-jones-resume.pdf) or reach me at [hello@jadanjones.com](mailto:hello@jadanjones.com).
